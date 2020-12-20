@@ -1,1 +1,1 @@
-# LinearAlgebra_Lab_Activity_7_8_&_10
+# LinearAlgebra_Lab_Activity-7-8-10
